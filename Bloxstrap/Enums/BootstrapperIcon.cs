@@ -2,9 +2,9 @@
 {
     public enum BootstrapperIcon
     {
-        [EnumName(StaticName = "Fishstrap")] //ermmmm it goes unused as of rn
-        IconFishstrap,
-        [EnumName(StaticName = "Fishstrap")]
+        [EnumName(StaticName = "Interstrap")] //ermmmm it goes unused as of rn
+        IconInterstrap,
+        [EnumName(StaticName = "Interstrap")]
         IconBloxstrap,
         [EnumName(StaticName = "2008")]
         Icon2008,

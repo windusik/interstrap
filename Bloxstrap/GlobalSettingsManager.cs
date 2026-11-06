@@ -149,7 +149,7 @@ namespace Bloxstrap
             App.Logger.WriteLine(LOG_IDENT, $"Loading from {FileLocation}...");
 
             // since the file gets created after roblox starts it might not exist yet
-            // this safeguard should only run once, that being when the user first installs fishstrap
+            // this safeguard should only run once, that being when the user first installs interstrap
             if (!File.Exists(FileLocation))
                 CreateTemplate();
 

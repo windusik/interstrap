@@ -5,8 +5,8 @@
         private const int MaxFiles = 200;
 
         public static Dictionary<string, string?> Directories = new Dictionary<string, string?> {
-            { "FishstrapLogs", Paths.Logs },
-            { "FishstrapCache", Paths.Downloads },
+            { "InterstrapLogs", Paths.Logs },
+            { "InterstrapCache", Paths.Downloads },
             { "RobloxLogs", Paths.RobloxLogs },
             { "RobloxCache", Paths.RobloxCache },
             { "RobloxStudioCache", Paths.RobloxStudioCache }

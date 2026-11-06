@@ -109,7 +109,7 @@ namespace Bloxstrap
             if (ImportSettings)
             {
                 // we dont have to worry about directories messing up
-                // if something doenst exist fishstrap will recreate the file/directory
+                // if something doenst exist interstrap will recreate the file/directory
                 try
                 {
                     ImportSettingsFromBloxstrap();
@@ -660,7 +660,7 @@ namespace Bloxstrap
             {
 #pragma warning disable CS0162 // Unreachable code detected
                 if (OpenReleaseNotes)
-                    Utilities.ShellExecute($"https://wiki.fishstrap.app/patch-notes/v{currentVer.Replace(".", "-")}");
+                    Utilities.ShellExecute($"https://wiki.example.dev/patch-notes/v{currentVer.Replace(".", "-")}");
 #pragma warning restore CS0162 // Unreachable code detected
             }
             else
@@ -696,7 +696,7 @@ namespace Bloxstrap
 
                 if (IsDirectory)
                 {
-                    // delete existing file from fishstrap folder
+                    // delete existing file from interstrap folder
                     string ExistingFile = Path.Combine(InstallLocation, FileName);
                     if (Directory.Exists(ExistingFile))
                     {
