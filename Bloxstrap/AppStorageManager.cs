@@ -126,7 +126,7 @@ namespace Bloxstrap
                     return;
                 }
 
-                tempPath = path + ".fishstrap-tmp";
+                tempPath = path + ".interstrap-tmp";
                 File.WriteAllText(tempPath, output, new UTF8Encoding(false));
 
                 Filesystem.AssertReadOnly(path);

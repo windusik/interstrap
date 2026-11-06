@@ -120,15 +120,15 @@
             }
         }
 
-        public bool CleanerFishstrap
+        public bool CleanerInterstrap
         {
-            get => CleanerItems.Contains("FishstrapLogs");
+            get => CleanerItems.Contains("InterstrapLogs");
             set
             {
                 if (value)
-                    CleanerItems.Add("FishstrapLogs");
+                    CleanerItems.Add("InterstrapLogs");
                 else
-                    CleanerItems.Remove("FishstrapLogs");
+                    CleanerItems.Remove("InterstrapLogs");
             }
         }
     }

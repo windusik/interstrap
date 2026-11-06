@@ -70,7 +70,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to These are the people who&apos;ve supported Fishstrap through Ko-fi. A massive thank you to everyone here!
+        ///   Looks up a localized string similar to These are the people who&apos;ve supported Interstrap through Ko-fi. A massive thank you to everyone here!
         ///Every person here is ranked by their overall pledge..
         /// </summary>
         public static string About_Supporters_Description {
@@ -98,7 +98,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap supporters.
+        ///   Looks up a localized string similar to Interstrap supporters.
         /// </summary>
         public static string About_Supporters_Title {
             get {
@@ -107,7 +107,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About Fishstrap.
+        ///   Looks up a localized string similar to About Interstrap.
         /// </summary>
         public static string About_Title {
             get {
@@ -116,7 +116,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All of Fishstrap&apos;s translations are crowdsourced through [Crowdin]({0}). Everyone listed here are people who generously volunteered their time and effort to help localise Fishstrap. A massive thank you to everyone here!.
+        ///   Looks up a localized string similar to All of Interstrap&apos;s translations are crowdsourced through [Crowdin]({0}). Everyone listed here are people who generously volunteered their time and effort to help localise Interstrap. A massive thank you to everyone here!.
         /// </summary>
         public static string About_Translators_Description {
             get {
@@ -170,7 +170,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap was unable to automatically update to version {0}. Please update it manually by downloading and running it from the website..
+        ///   Looks up a localized string similar to Interstrap was unable to automatically update to version {0}. Please update it manually by downloading and running it from the website..
         /// </summary>
         public static string Bootstrapper_AutoUpdateFailed {
             get {
@@ -220,7 +220,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Let Fishstrap decide which servers you join. Prioritizes the server with the shortest distance to you..
+        ///   Looks up a localized string similar to Let Interstrap decide which servers you join. Prioritizes the server with the shortest distance to you..
         /// </summary>
         public static string Bootstrapper_Experimental_BetterMatchmaking_Description {
             get {
@@ -283,7 +283,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap tried to upgrade Roblox but can&apos;t because Roblox&apos;s files are still in use.
+        ///   Looks up a localized string similar to Interstrap tried to upgrade Roblox but can&apos;t because Roblox&apos;s files are still in use.
         ///
         ///Please close any applications that may be using Roblox&apos;s files, and relaunch..
         /// </summary>
@@ -294,7 +294,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You must first install Fishstrap before uninstalling..
+        ///   Looks up a localized string similar to You must first install Interstrap before uninstalling..
         /// </summary>
         public static string Bootstrapper_FirstRunUninstall {
             get {
@@ -330,7 +330,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap does not have enough disk space to download and install Roblox. Please free up some disk space and try again..
+        ///   Looks up a localized string similar to Interstrap does not have enough disk space to download and install Roblox. Please free up some disk space and try again..
         /// </summary>
         public static string Bootstrapper_NotEnoughSpace {
             get {
@@ -429,7 +429,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Getting the latest Fishstrap....
+        ///   Looks up a localized string similar to Getting the latest Interstrap....
         /// </summary>
         public static string Bootstrapper_Status_UpgradingBloxstrap {
             get {
@@ -474,7 +474,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap has successfully uninstalled.
+        ///   Looks up a localized string similar to Interstrap has successfully uninstalled.
         /// </summary>
         public static string Bootstrapper_SuccessfullyUninstalled {
             get {
@@ -483,7 +483,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox is currently running, but must be closed before uninstalling Fishstrap. Would you like to close Roblox now?.
+        ///   Looks up a localized string similar to Roblox is currently running, but must be closed before uninstalling Interstrap. Would you like to close Roblox now?.
         /// </summary>
         public static string Bootstrapper_Uninstall_RobloxRunning {
             get {
@@ -906,7 +906,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox has not yet been installed. Please launch Roblox using Fishstrap at least once before trying to use this option..
+        ///   Looks up a localized string similar to Roblox has not yet been installed. Please launch Roblox using Interstrap at least once before trying to use this option..
         /// </summary>
         public static string Common_RobloxNotInstalled {
             get {
@@ -1692,7 +1692,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap no longer supports Bloxshade.
+        ///   Looks up a localized string similar to Interstrap no longer supports Bloxshade.
         ///For more information join Bloxshade discord server..
         /// </summary>
         public static string Dialog_Bloxshade_Setting {
@@ -1711,7 +1711,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap was unable to create shortcuts for the Desktop and Start menu. Try creating them later through the settings..
+        ///   Looks up a localized string similar to Interstrap was unable to create shortcuts for the Desktop and Start menu. Try creating them later through the settings..
         /// </summary>
         public static string Dialog_CannotCreateShortcuts {
             get {
@@ -1720,7 +1720,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to A connection could not be made, which likely indicates a poor internet connection or a firewall block. If your connection is fine, please ensure that your antivirus isn&apos;t blocking Fishstrap..
+        ///   Looks up a localized string similar to A connection could not be made, which likely indicates a poor internet connection or a firewall block. If your connection is fine, please ensure that your antivirus isn&apos;t blocking Interstrap..
         /// </summary>
         public static string Dialog_Connectivity_BadConnection {
             get {
@@ -1765,7 +1765,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Because Roblox needs to be installed or upgraded, Fishstrap cannot continue..
+        ///   Looks up a localized string similar to Because Roblox needs to be installed or upgraded, Interstrap cannot continue..
         /// </summary>
         public static string Dialog_Connectivity_RobloxUpgradeNeeded {
             get {
@@ -1810,7 +1810,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap is unable to connect to {0}.
+        ///   Looks up a localized string similar to Interstrap is unable to connect to {0}.
         /// </summary>
         public static string Dialog_Connectivity_UnableToConnect {
             get {
@@ -1819,7 +1819,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap is unable to download Roblox.
+        ///   Looks up a localized string similar to Interstrap is unable to download Roblox.
         /// </summary>
         public static string Dialog_Connectivity_UnableToDownload {
             get {
@@ -1846,7 +1846,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose which client distribution Fishstrap should use..
+        ///   Looks up a localized string similar to Choose which client distribution Interstrap should use..
         /// </summary>
         public static string Dialog_DistributorSelector_Subtext {
             get {
@@ -1876,7 +1876,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to An exception occurred while running Fishstrap/Bloxstrap.
+        ///   Looks up a localized string similar to An exception occurred while running Interstrap/Bloxstrap.
         /// </summary>
         public static string Dialog_Exception_Info_1 {
             get {
@@ -1916,7 +1916,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap Exception.
+        ///   Looks up a localized string similar to Interstrap Exception.
         /// </summary>
         public static string Dialog_Exception_Title {
             get {
@@ -1984,7 +1984,7 @@ namespace Bloxstrap.Resources {
         /// <summary>
         ///   Looks up a localized string similar to For information about why this could be happening and how this can be resolved, please read [this help article]({0}).
         ///
-        ///Check if Roblox works with [the original launcher]({1}). If it doesn&apos;t, then this isn&apos;t a Fishstrap issue. If it does, then refer to the help article..
+        ///Check if Roblox works with [the original launcher]({1}). If it doesn&apos;t, then this isn&apos;t a Interstrap issue. If it does, then refer to the help article..
         /// </summary>
         public static string Dialog_PlayerError_HelpInformation {
             get {
@@ -1993,7 +1993,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap is unable to write to the Windows Registry. An antivirus is likely interfering and causing issues. Please check to make sure there isn&apos;t anything that would restrict Fishstrap&apos;s operation..
+        ///   Looks up a localized string similar to Interstrap is unable to write to the Windows Registry. An antivirus is likely interfering and causing issues. Please check to make sure there isn&apos;t anything that would restrict Interstrap&apos;s operation..
         /// </summary>
         public static string Dialog_RegistryWriteError {
             get {
@@ -2029,7 +2029,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap (Classic).
+        ///   Looks up a localized string similar to Interstrap (Classic).
         /// </summary>
         public static string Enums_BootstrapperStyle_ClassicFluentDialog {
             get {
@@ -2047,7 +2047,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap (Glass).
+        ///   Looks up a localized string similar to Interstrap (Glass).
         /// </summary>
         public static string Enums_BootstrapperStyle_FluentAeroDialog {
             get {
@@ -2452,7 +2452,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap has been upgraded to v{0}.
+        ///   Looks up a localized string similar to Interstrap has been upgraded to v{0}.
         /// </summary>
         public static string InstallChecker_Updated {
             get {
@@ -2461,7 +2461,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The version of Fishstrap you&apos;ve launched is different to the version you currently have installed.
+        ///   Looks up a localized string similar to The version of Interstrap you&apos;ve launched is different to the version you currently have installed.
         ///Would you like to upgrade your currently installed version?.
         /// </summary>
         public static string InstallChecker_VersionDifferentThanInstalled {
@@ -2471,7 +2471,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The version of Fishstrap you&apos;ve launched is older than the version you currently have installed.
+        ///   Looks up a localized string similar to The version of Interstrap you&apos;ve launched is older than the version you currently have installed.
         ///Issues may occur and your settings may be altered. A reinstall is recommended.
         ///Are you sure you want to continue?.
         /// </summary>
@@ -2509,7 +2509,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure Fishstrap&apos;s settings.
+        ///   Looks up a localized string similar to Configure Interstrap&apos;s settings.
         /// </summary>
         public static string Installer_Completion_Settings_Title {
             get {
@@ -2518,11 +2518,11 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap has successfully been installed.
+        ///   Looks up a localized string similar to Interstrap has successfully been installed.
         ///
-        ///Roblox has not yet been installed, that will happen when you launch it with Fishstrap for the first time. However, before you do that, you may want to configure Fishstrap&apos;s settings first.
+        ///Roblox has not yet been installed, that will happen when you launch it with Interstrap for the first time. However, before you do that, you may want to configure Interstrap&apos;s settings first.
         ///
-        ///Also, avoid using the &quot;Roblox Player&quot; shortcut to launch Roblox, as Fishstrap won&apos;t launch with Roblox. If you don&apos;t see Fishstrap show when launching from the website, simply launch Roblox with Fishstrap once from the desktop to fix it.
+        ///Also, avoid using the &quot;Roblox Player&quot; shortcut to launch Roblox, as Interstrap won&apos;t launch with Roblox. If you don&apos;t see Interstrap show when launching from the website, simply launch Roblox with Interstrap once from the desktop to fix it.
         ///
         ///What would you like to do?.
         /// </summary>
@@ -2562,9 +2562,9 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap has been installed to this location before and is still present, however the installer cannot overwrite the old executable. 
+        ///   Looks up a localized string similar to Interstrap has been installed to this location before and is still present, however the installer cannot overwrite the old executable. 
         ///
-        ///Please manually delete Fishstrap.exe from the install location or try restarting your system, and then retry installation afterwards..
+        ///Please manually delete Interstrap.exe from the install location or try restarting your system, and then retry installation afterwards..
         /// </summary>
         public static string Installer_Install_CannotOverwrite {
             get {
@@ -2636,7 +2636,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap Installer.
+        ///   Looks up a localized string similar to Interstrap Installer.
         /// </summary>
         public static string Installer_Title {
             get {
@@ -2645,11 +2645,11 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Thank you for downloading Fishstrap. 
+        ///   Looks up a localized string similar to Thank you for downloading Interstrap. 
         ///
-        ///The only official websites to download Fishstrap from are {0} and {1}, so please verify that you got it from an official source.
+        ///The only official websites to download Interstrap from are {0} and {1}, so please verify that you got it from an official source.
         ///
-        ///This installation process will be quick and simple, and you will be able to configure any of Fishstrap&apos;s settings after installation..
+        ///This installation process will be quick and simple, and you will be able to configure any of Interstrap&apos;s settings after installation..
         /// </summary>
         public static string Installer_Welcome_MainText {
             get {
@@ -2676,7 +2676,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to You are trying to install version {0} of Fishstrap, but the latest version available is {1}. Would you like to download it?.
+        ///   Looks up a localized string similar to You are trying to install version {0} of Interstrap, but the latest version available is {1}. Would you like to download it?.
         /// </summary>
         public static string Installer_Welcome_UpdateNotice {
             get {
@@ -2757,7 +2757,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to No log file will be written for this launch because Fishstrap is unable to write to the folder at &apos;{0}&apos;.
+        ///   Looks up a localized string similar to No log file will be written for this launch because Interstrap is unable to write to the folder at &apos;{0}&apos;.
         /// </summary>
         public static string Logger_NoWriteMode {
             get {
@@ -2784,7 +2784,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to These are the people who have made notable contributions to Fishstrap/Bloxstrap, helping make it what it is..
+        ///   Looks up a localized string similar to These are the people who have made notable contributions to Interstrap/Bloxstrap, helping make it what it is..
         /// </summary>
         public static string Menu_About_Contributors_Description {
             get {
@@ -2919,7 +2919,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap is already running.
+        ///   Looks up a localized string similar to Interstrap is already running.
         /// </summary>
         public static string Menu_AlreadyRunning_Title {
             get {
@@ -3072,7 +3072,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure how Fishstrap should look..
+        ///   Looks up a localized string similar to Configure how Interstrap should look..
         /// </summary>
         public static string Menu_Appearance_Description {
             get {
@@ -3207,7 +3207,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap will automatically check and update itself when launching Roblox..
+        ///   Looks up a localized string similar to Interstrap will automatically check and update itself when launching Roblox..
         /// </summary>
         public static string Menu_Behaviour_AutoUpdate_Description {
             get {
@@ -3216,7 +3216,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Automatically update Fishstrap.
+        ///   Looks up a localized string similar to Automatically update Interstrap.
         /// </summary>
         public static string Menu_Behaviour_AutoUpdate_Title {
             get {
@@ -3270,7 +3270,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure what Fishstrap should do when launching Roblox..
+        ///   Looks up a localized string similar to Configure what Interstrap should do when launching Roblox..
         /// </summary>
         public static string Menu_Behaviour_Description {
             get {
@@ -3324,7 +3324,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure options related to Fishstrap&apos;s behaviour itself..
+        ///   Looks up a localized string similar to Configure options related to Interstrap&apos;s behaviour itself..
         /// </summary>
         public static string Menu_Bloxstrap_Description {
             get {
@@ -3333,7 +3333,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Provide access to Roblox APIs using your authentication cookie. [What will Fishstrap access?]({0}).
+        ///   Looks up a localized string similar to Provide access to Roblox APIs using your authentication cookie. [What will Interstrap access?]({0}).
         /// </summary>
         public static string Menu_Bootstrapper_AllowCookieAccess_Description {
             get {
@@ -3342,7 +3342,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allow Fishstrap to access your Roblox account.
+        ///   Looks up a localized string similar to Allow Interstrap to access your Roblox account.
         /// </summary>
         public static string Menu_Bootstrapper_AllowCookieAccess_Title {
             get {
@@ -3387,7 +3387,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap logs will be deleted..
+        ///   Looks up a localized string similar to Interstrap logs will be deleted..
         /// </summary>
         public static string Menu_Bootstrapper_Cleaner_IncludeBloxstrap_Description {
             get {
@@ -3396,7 +3396,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap logs.
+        ///   Looks up a localized string similar to Interstrap logs.
         /// </summary>
         public static string Menu_Bootstrapper_Cleaner_IncludeBloxstrap_Title {
             get {
@@ -3441,7 +3441,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap will remove old data to save on space.
+        ///   Looks up a localized string similar to Interstrap will remove old data to save on space.
         /// </summary>
         public static string Menu_Bootstrapper_CleanUp_Description {
             get {
@@ -3468,7 +3468,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Roblox or Fishstrap may try to change your preferred channel..
+        ///   Looks up a localized string similar to Roblox or Interstrap may try to change your preferred channel..
         /// </summary>
         public static string Menu_Channel_ChangeAction_Description {
             get {
@@ -3504,7 +3504,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Choose the client deployment Fishstrap should use. Please note, you may not be able to revert your account status after agreeing to the terms shown by Roblox..
+        ///   Looks up a localized string similar to Choose the client deployment Interstrap should use. Please note, you may not be able to revert your account status after agreeing to the terms shown by Roblox..
         /// </summary>
         public static string Menu_Channel_ClientDistribution_Description {
             get {
@@ -3522,7 +3522,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Change deployment and installation settings for Roblox &amp; Fishstrap..
+        ///   Looks up a localized string similar to Change deployment and installation settings for Roblox &amp; Interstrap..
         /// </summary>
         public static string Menu_Channel_Description {
             get {
@@ -3531,7 +3531,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Set what domain Roblox and Fishstrap will use. Enter only trusted domains..
+        ///   Looks up a localized string similar to Set what domain Roblox and Interstrap will use. Enter only trusted domains..
         /// </summary>
         public static string Menu_Channel_RobloxDomain_Description {
             get {
@@ -3595,7 +3595,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Force Fishstrap to download version from specific hash. Please do not change if you have no idea what this does..
+        ///   Looks up a localized string similar to Force Interstrap to download version from specific hash. Please do not change if you have no idea what this does..
         /// </summary>
         public static string Menu_Channel_VersionHash_Desription {
             get {
@@ -3947,7 +3947,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allow Fishstrap to manage Fast Flags.
+        ///   Looks up a localized string similar to Allow Interstrap to manage Fast Flags.
         /// </summary>
         public static string Menu_FastFlags_ManagerEnabled_Title {
             get {
@@ -4091,7 +4091,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to For more information join Fishstrap Discord server.
+        ///   Looks up a localized string similar to For more information join Interstrap Discord server.
         /// </summary>
         public static string Menu_FastFlagsDisabled_Description {
             get {
@@ -4109,65 +4109,65 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to It&apos;s anonymous and nothing evil, promise. For insight on what Fishstrap collects and why, see Fishstrap&apos;s [privacy policy]({0})..
+        ///   Looks up a localized string similar to It&apos;s anonymous and nothing evil, promise. For insight on what Interstrap collects and why, see Interstrap&apos;s [privacy policy]({0})..
         /// </summary>
-        public static string Menu_Fishstrap_Analytics_Description {
+        public static string Menu_Interstrap_Analytics_Description {
             get {
-                return ResourceManager.GetString("Menu.Fishstrap.Analytics.Description", resourceCulture);
+                return ResourceManager.GetString("Menu.Interstrap.Analytics.Description", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Enable sending of analytics to Fishstrap.
+        ///   Looks up a localized string similar to Enable sending of analytics to Interstrap.
         /// </summary>
-        public static string Menu_Fishstrap_Analytics_Title {
+        public static string Menu_Interstrap_Analytics_Title {
             get {
-                return ResourceManager.GetString("Menu.Fishstrap.Analytics.Title", resourceCulture);
+                return ResourceManager.GetString("Menu.Interstrap.Analytics.Title", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure options related to Fishstrap&apos;s behaviour itself..
+        ///   Looks up a localized string similar to Configure options related to Interstrap&apos;s behaviour itself..
         /// </summary>
-        public static string Menu_Fishstrap_Description {
+        public static string Menu_Interstrap_Description {
             get {
-                return ResourceManager.GetString("Menu.Fishstrap.Description", resourceCulture);
+                return ResourceManager.GetString("Menu.Interstrap.Description", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Gather information that can be uploaded online to troubleshoot a problem you&apos;re having..
         /// </summary>
-        public static string Menu_Fishstrap_ExportData_Description {
+        public static string Menu_Interstrap_ExportData_Description {
             get {
-                return ResourceManager.GetString("Menu.Fishstrap.ExportData.Description", resourceCulture);
+                return ResourceManager.GetString("Menu.Interstrap.ExportData.Description", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap configuration.
+        ///   Looks up a localized string similar to Interstrap configuration.
         /// </summary>
-        public static string Menu_Fishstrap_ExportData_ExportConfig {
+        public static string Menu_Interstrap_ExportData_ExportConfig {
             get {
-                return ResourceManager.GetString("Menu.Fishstrap.ExportData.ExportConfig", resourceCulture);
+                return ResourceManager.GetString("Menu.Interstrap.ExportData.ExportConfig", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to All Fishstrap logs.
+        ///   Looks up a localized string similar to All Interstrap logs.
         /// </summary>
-        public static string Menu_Fishstrap_ExportData_ExportLogs {
+        public static string Menu_Interstrap_ExportData_ExportLogs {
             get {
-                return ResourceManager.GetString("Menu.Fishstrap.ExportData.ExportLogs", resourceCulture);
+                return ResourceManager.GetString("Menu.Interstrap.ExportData.ExportLogs", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Looks up a localized string similar to Export diagnostic data.
         /// </summary>
-        public static string Menu_Fishstrap_ExportData_Title {
+        public static string Menu_Interstrap_ExportData_Title {
             get {
-                return ResourceManager.GetString("Menu.Fishstrap.ExportData.Title", resourceCulture);
+                return ResourceManager.GetString("Menu.Interstrap.ExportData.Title", resourceCulture);
             }
         }
         
@@ -4190,7 +4190,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Set in-game settings from Fishstrap menu..
+        ///   Looks up a localized string similar to Set in-game settings from Interstrap menu..
         /// </summary>
         public static string Menu_GBSEditor_Description {
             get {
@@ -4343,7 +4343,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap cannot be installed here. Please choose a different location, or resort to using the default location by clicking the reset button..
+        ///   Looks up a localized string similar to Interstrap cannot be installed here. Please choose a different location, or resort to using the default location by clicking the reset button..
         /// </summary>
         public static string Menu_InstallLocation_CantInstall {
             get {
@@ -4352,7 +4352,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to The folder you&apos;ve chosen to install Fishstrap to already exists and is NOT empty. It is strongly recommended for Fishstrap to be installed to its own independent folder.
+        ///   Looks up a localized string similar to The folder you&apos;ve chosen to install Interstrap to already exists and is NOT empty. It is strongly recommended for Interstrap to be installed to its own independent folder.
         ///
         ///Changing to the following location is suggested:
         ///{0}
@@ -4376,7 +4376,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap does not have write access to the install location you&apos;ve selected. Please choose another location..
+        ///   Looks up a localized string similar to Interstrap does not have write access to the install location you&apos;ve selected. Please choose another location..
         /// </summary>
         public static string Menu_InstallLocation_NoWritePerms {
             get {
@@ -4511,7 +4511,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allows for Fishstrap to detect what Roblox game you&apos;re playing. Certain features may require this..
+        ///   Looks up a localized string similar to Allows for Interstrap to detect what Roblox game you&apos;re playing. Certain features may require this..
         /// </summary>
         public static string Menu_Integrations_EnableActivityTracking_Description {
             get {
@@ -4547,7 +4547,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allows Fishstrap to access Roblox&apos;s window handle allowing for better customization and features..
+        ///   Looks up a localized string similar to Allows Interstrap to access Roblox&apos;s window handle allowing for better customization and features..
         /// </summary>
         public static string Menu_Integrations_EnableWindowManipulation_Description {
             get {
@@ -4943,7 +4943,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Configure how Fishstrap can be readily launched..
+        ///   Looks up a localized string similar to Configure how Interstrap can be readily launched..
         /// </summary>
         public static string Menu_Shortcuts_Description {
             get {
@@ -4952,7 +4952,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Allows you to use Fishstrap&apos;s range of Roblox icons for your shortcuts. [See how.]({0}).
+        ///   Looks up a localized string similar to Allows you to use Interstrap&apos;s range of Roblox icons for your shortcuts. [See how.]({0}).
         /// </summary>
         public static string Menu_Shortcuts_ExtractIcons_Description {
             get {
@@ -5028,7 +5028,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Fishstrap Settings.
+        ///   Looks up a localized string similar to Interstrap Settings.
         /// </summary>
         public static string Menu_Title {
             get {
@@ -5055,7 +5055,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to They&apos;ll be kept where Fishstrap was installed, and will automatically be restored on a reinstall..
+        ///   Looks up a localized string similar to They&apos;ll be kept where Interstrap was installed, and will automatically be restored on a reinstall..
         /// </summary>
         public static string Uninstaller_KeepData_Description {
             get {
@@ -5073,13 +5073,13 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Uninstalling will remove Fishstrap from your system, and automatically reconfigure the default Roblox launcher if it&apos;s still installed.
+        ///   Looks up a localized string similar to Uninstalling will remove Interstrap from your system, and automatically reconfigure the default Roblox launcher if it&apos;s still installed.
         ///
         ///If you&apos;re uninstalling or reinstalling because you are having issues with Roblox, read [this help page]({0}) first.
         ///
-        ///The uninstall process may not be able to fully clean up itself, so you may need to manually clean up leftover files where Fishstrap was installed.
+        ///The uninstall process may not be able to fully clean up itself, so you may need to manually clean up leftover files where Interstrap was installed.
         ///
-        ///Fishstrap was installed at &quot;{1}&quot;..
+        ///Interstrap was installed at &quot;{1}&quot;..
         /// </summary>
         public static string Uninstaller_Text {
             get {
@@ -5088,7 +5088,7 @@ namespace Bloxstrap.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Uninstall Fishstrap.
+        ///   Looks up a localized string similar to Uninstall Interstrap.
         /// </summary>
         public static string Uninstaller_Title {
             get {
